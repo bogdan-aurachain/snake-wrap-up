@@ -1,4 +1,4 @@
-# friday
+# snake & vue practices wrap-up
 
 ## Project setup
 ```
