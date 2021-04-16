@@ -2,7 +2,6 @@
     <div class="hello">
         <canvas ref="canvas" :height="size * zoom" :width="size * zoom"></canvas>
         <button @click="onStopClick">STOP</button>
-        <pre>{{ keyStack }}</pre>
     </div>
 </template>
 
